@@ -1,0 +1,20 @@
+.hvr-eft{
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.4s;
+  -webkit-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+}
+
+.hvr-eft:hover, .hvr-eft:focus, .hvr-eft:active {
+
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+
+}
+.about-img{
+  height: 600px;
+  width: 100%;
+}

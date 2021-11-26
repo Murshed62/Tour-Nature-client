@@ -1,0 +1,14 @@
+.login-link{
+  text-decoration: none;
+  color:black;
+  font-weight: 700;
+}
+.register-link{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+.btn-register{
+  /* margin-left: 500px; */
+  margin-left: 40%;
+}

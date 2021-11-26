@@ -1,0 +1,10 @@
+.input-container{
+  width: 60%;
+  margin: 100px;
+}
+.send-btn{
+  margin-left: 90px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+

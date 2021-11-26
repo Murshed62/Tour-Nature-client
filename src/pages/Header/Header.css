@@ -1,0 +1,15 @@
+.nav-custom{
+background-color: #0009;
+}
+.back-img{
+  background-image: url(../../images/banner/vestrahorn-mountains-stokksnes-iceland.png);
+  height: 100vh;
+  background-size: cover;
+  /* background-position: center; */
+}
+.list-style{
+  list-style-type: none;
+}
+.dropdown-custom{
+  margin-left: 250px;
+}
